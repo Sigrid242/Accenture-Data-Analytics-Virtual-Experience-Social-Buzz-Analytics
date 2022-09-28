@@ -8,6 +8,11 @@ This is Accenture Data Analytics virtual experience project with Forage that I w
 
 3- Analysis of top 5 pupular categories content
 
-Link: https://tabsoft.co/3xVaojt
+
+
+
+PowerPoint Presentation: https://bit.ly/3dXkvNI
+
+Viz Link: https://tabsoft.co/3xVaojt
 
 ![social buzz dashboard](https://user-images.githubusercontent.com/59377247/192843759-79d1e9e7-6d10-4d9d-9329-d66bcb41e76a.PNG)
