@@ -11,7 +11,7 @@ This is Accenture Data Analytics virtual experience project with Forage that I w
 
 
 
-PowerPoint Presentation: https://bit.ly/3dXkvNI
+Google Presentation: https://bit.ly/3Cke9la
 
 Viz Link: https://tabsoft.co/3xVaojt
 
